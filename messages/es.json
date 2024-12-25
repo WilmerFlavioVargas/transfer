@@ -1,0 +1,37 @@
+{
+  "Navigation": {
+    "search": "Buscar",
+    "profile": "Perfil",
+    "adminPanel": "Panel de Administración",
+    "signOut": "Cerrar Sesión",
+    "signIn": "Iniciar Sesión"
+  },
+  "SearchResults": {
+    "type": "Tipo",
+    "capacity": "Capacidad",
+    "luggage": "Equipaje",
+    "category": "Categoría",
+    "price": "Precio",
+    "addToCart": "Añadir al Carrito"
+  },
+  "BookingForm": {
+    "pickup": "Recogida",
+    "dropoff": "Entrega",
+    "passengers": "Pasajeros",
+    "departureDate": "Fecha de Salida",
+    "departureTime": "Hora de Salida",
+    "roundTrip": "Ida y Vuelta",
+    "returnDate": "Fecha de Regreso",
+    "returnTime": "Hora de Regreso",
+    "search": "Buscar"
+  },
+  "ReservationManager": {
+    "manageReservations": "Gestionar Reservas",
+    "client": "Cliente",
+    "services": "Servicios",
+    "totalPrice": "Precio Total",
+    "status": "Estado",
+    "actions": "Acciones"
+  }
+}
+

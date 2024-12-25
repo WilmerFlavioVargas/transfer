@@ -1,0 +1,53 @@
+{
+  "IzipayPayment": {
+    "tokenError": "Error obtaining payment token",
+    "paymentSuccessTitle": "Payment successful",
+    "paymentSuccessDescription": "The payment of ${amount} has been processed successfully.",
+    "paymentFailed": "Payment failed",
+    "processing": "Processing...",
+    "pay": "Pay ${amount}"
+  },
+  "VehicleSearch": {
+    "pickup": "Pickup",
+    "dropoff": "Dropoff",
+    "passengers": "Passengers",
+    "departureDate": "Departure date",
+    "departureTime": "Departure time",
+    "roundTrip": "Round trip",
+    "returnDate": "Return date",
+    "returnTime": "Return time",
+    "search": "Search",
+    "availableVehicles": "Available vehicles",
+    "select": "Select",
+    "selectedVehicles": "Selected vehicles",
+    "remove": "Remove",
+    "updateService": "Update service",
+    "addService": "Add service",
+    "payment": "Payment",
+    "map": "Map"
+  },
+  "LoyaltyProgram": {
+    "loyaltyProgram": "Loyalty Program",
+    "currentPoints": "Current Points: ${points}",
+    "redeemPoints": "Redeem Points",
+    "redeeming": "Redeeming...",
+    "success": "Success",
+    "pointsRedeemed": "${points} points redeemed successfully",
+    "error": "Error",
+    "redeemError": "Failed to redeem points. Please try again."
+  },
+  "TwoFactorSetup": {
+    "twoFactorSetup": "Two-Factor Authentication Setup",
+    "setupTwoFactor": "Setup Two-Factor Authentication",
+    "scanQrCode": "Scan this QR code with your authenticator app",
+    "enterVerificationCode": "Enter verification code",
+    "verifyCode": "Verify Code",
+    "twoFactorEnabled": "Two-Factor Authentication is enabled",
+    "success": "Success",
+    "verificationSuccess": "Two-Factor Authentication verified successfully",
+    "error": "Error",
+    "setupError": "Failed to setup Two-Factor Authentication",
+    "verificationError": "Failed to verify Two-Factor Authentication"
+  }
+}
+

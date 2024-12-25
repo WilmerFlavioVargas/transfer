@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Next.js build files
+.next/
+
+# Environment variable files
+.env.local
+.env.production
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE files (Optional, if you're using VSCode)
+.vscode/

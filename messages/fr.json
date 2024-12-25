@@ -1,0 +1,61 @@
+{
+  "Navigation": {
+    "search": "Rechercher",
+    "profile": "Profil",
+    "adminPanel": "Panneau d'administration",
+    "signOut": "Se déconnecter",
+    "signIn": "Se connecter"
+  },
+  "SearchResults": {
+    "type": "Type",
+    "capacity": "Capacité",
+    "luggage": "Bagages",
+    "category": "Catégorie",
+    "price": "Prix",
+    "addToCart": "Ajouter au panier"
+  },
+  "BookingForm": {
+    "pickup": "Lieu de prise en charge",
+    "dropoff": "Lieu de dépôt",
+    "passengers": "Passagers",
+    "departureDate": "Date de départ",
+    "departureTime": "Heure de départ",
+    "roundTrip": "Aller-retour",
+    "returnDate": "Date de retour",
+    "returnTime": "Heure de retour",
+    "search": "Rechercher"
+  },
+  "ReservationManager": {
+    "manageReservations": "Gérer les réservations",
+    "client": "Client",
+    "services": "Services",
+    "totalPrice": "Prix total",
+    "status": "Statut",
+    "actions": "Actions"
+  },
+  "Reviews": {
+    "reviews": "Avis",
+    "rating": "Note",
+    "leaveReview": "Laisser un avis",
+    "comment": "Commentaire",
+    "submitReview": "Soumettre l'avis",
+    "reviewSubmitted": "Avis soumis",
+    "reviewSubmittedDescription": "Merci pour votre avis !",
+    "error": "Erreur",
+    "reviewSubmissionError": "Erreur lors de la soumission de l'avis. Veuillez réessayer."
+  },
+  "TwoFactorSetup": {
+    "twoFactorSetup": "Configuration de l'authentification à deux facteurs",
+    "setupTwoFactor": "Configurer l'authentification à deux facteurs",
+    "scanQrCode": "Scannez ce code QR avec votre application d'authentification",
+    "enterVerificationCode": "Entrez le code de vérification",
+    "verifyCode": "Vérifier le code",
+    "twoFactorEnabled": "L'authentification à deux facteurs est activée",
+    "success": "Succès",
+    "verificationSuccess": "Authentification à deux facteurs vérifiée avec succès",
+    "error": "Erreur",
+    "setupError": "Erreur lors de la configuration de l'authentification à deux facteurs",
+    "verificationError": "Erreur lors de la vérification de l'authentification à deux facteurs"
+  }
+}
+
